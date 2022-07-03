@@ -3,6 +3,7 @@
 install_dir=$${XDG_DATA_DIR:-$$HOME/.local/share}/color-schemes
 
 install:
+	mkdir -p ${install_dir}
 	install -m 600 ./BreezeDarker.colors ${install_dir}
 
 update:
