@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="370"
+   height="130"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style
+    id="current-color-scheme"
+    type="text/css">
+      .ColorScheme-ViewFocus {
+        color: #8BC332;
+      }
+      .ColorScheme-HeaderBackground {
+        color: #2a2e32;
+      }
+  </style>
+  <g transform="translate(10,10)">
+    <path
+      class="ColorScheme-ViewFocus"
+      style="fill:currentColor;stroke:none;fill-opacity:1"
+      id="decoration-topleft"
+      transform="translate(0,0)"
+      d="m 5,0 a 5,5 0 0 0 -5,5 h 5 z" />
+    <rect
+      class="ColorScheme-ViewFocus"
+      style="fill:currentColor;stroke:none;fill-opacity:1"
+      id="decoration-top"
+      transform="translate(5,0)"
+      width="100"
+      height="5" />
+    <path
+      class="ColorScheme-ViewFocus"
+      style="fill:currentColor;stroke:none;fill-opacity:1"
+      id="decoration-topright"
+      transform="translate(105,0)"
+      d="m 5,5 a 5,5 0 0 0 -5,-5 v 5 z" />
+    <rect
+      class="ColorScheme-ViewFocus"
+      style="fill:currentColor;stroke:none;fill-opacity:1"
+      id="decoration-left"
+      transform="translate(0,5)"
+      width="5"
+      height="100" />
+    <rect
+      class="ColorScheme-ViewFocus"
+      style="fill:currentColor;stroke:none;fill-opacity:1"
+      id="decoration-center"
+      transform="translate(5,5)"
+      width="100"
+      height="100" />
+    <rect
+      class="ColorScheme-ViewFocus"
+      style="fill:currentColor;stroke:none;fill-opacity:1"
+      id="decoration-right"
+      transform="translate(105,5)"
+      width="5"
+      height="100" />
+    <path
+      class="ColorScheme-ViewFocus"
+      style="fill:currentColor;stroke:none;fill-opacity:1"
+      id="decoration-bottomleft"
+      transform="translate(0,105)"
+      d="m 0,0 a 5,5 0 0 0 5,5 v -5 z" />
+    <rect
+      class="ColorScheme-ViewFocus"
+      style="fill:currentColor;stroke:none;fill-opacity:1"
+      id="decoration-bottom"
+      transform="translate(5,105)"
+      width="100"
+      height="5" />
+    <path
+      class="ColorScheme-ViewFocus"
+      style="fill:currentColor;stroke:none;fill-opacity:1"
+      id="decoration-bottomright"
+      transform="translate(105,105)"
+      d="m 0,5 a 5,5 0 0 0 5,-5 h -5 z" />
+  </g>
+  <g transform="translate(130,10)">
+    <path
+      class="ColorScheme-HeaderBackground"
+      style="fill:currentColor;stroke:none;fill-opacity:1"
+      id="decoration-inactive-topleft"
+      transform="translate(0,0)"
+      d="m 5,0 a 5,5 0 0 0 -5,5 h 5 z" />
+    <rect
+      class="ColorScheme-HeaderBackground"
+      style="fill:currentColor;stroke:none;fill-opacity:1"
+      id="decoration-inactive-top"
+      transform="translate(5,0)"
+      width="100"
+      height="5" />
+    <path
+      class="ColorScheme-HeaderBackground"
+      style="fill:currentColor;stroke:none;fill-opacity:1"
+      id="decoration-inactive-topright"
+      transform="translate(105,0)"
+      d="m 5,5 a 5,5 0 0 0 -5,-5 v 5 z" />
+    <rect
+      class="ColorScheme-HeaderBackground"
+      style="fill:currentColor;stroke:none;fill-opacity:1"
+      id="decoration-inactive-left"
+      transform="translate(0,5)"
+      width="5"
+      height="100" />
+    <rect
+      class="ColorScheme-HeaderBackground"
+      style="fill:currentColor;stroke:none;fill-opacity:1"
+      id="decoration-inactive-center"
+      transform="translate(5,5)"
+      width="100"
+      height="100" />
+    <rect
+      class="ColorScheme-HeaderBackground"
+      style="fill:currentColor;stroke:none;fill-opacity:1"
+      id="decoration-inactive-right"
+      transform="translate(105,5)"
+      width="5"
+      height="100" />
+    <path
+      class="ColorScheme-HeaderBackground"
+      style="fill:currentColor;stroke:none;fill-opacity:1"
+      id="decoration-inactive-bottomleft"
+      transform="translate(0,105)"
+      d="m 0,0 a 5,5 0 0 0 5,5 v -5 z" />
+    <rect
+      class="ColorScheme-HeaderBackground"
+      style="fill:currentColor;stroke:none;fill-opacity:1"
+      id="decoration-inactive-bottom"
+      transform="translate(5,105)"
+      width="100"
+      height="5" />
+    <path
+      class="ColorScheme-HeaderBackground"
+      style="fill:currentColor;stroke:none;fill-opacity:1"
+      id="decoration-inactive-bottomright"
+      transform="translate(105,105)"
+      d="m 0,5 a 5,5 0 0 0 5,-5 h -5 z" />
+  </g>
+  <g transform="translate(250,10)">
+    <path
+      style="fill:#000000;stroke:none;fill-opacity:1"
+      id="decoration-opaque-topleft"
+      transform="translate(0,0)"
+      d="m 5,0 a 5,5 0 0 0 -5,5 h 5 z" />
+    <rect
+      style="fill:#000000;stroke:none;fill-opacity:1"
+      id="decoration-opaque-top"
+      transform="translate(5,0)"
+      width="100"
+      height="5" />
+    <path
+      style="fill:#000000;stroke:none;fill-opacity:1"
+      id="decoration-opaque-topright"
+      transform="translate(105,0)"
+      d="m 5,5 a 5,5 0 0 0 -5,-5 v 5 z" />
+    <rect
+      style="fill:#000000;stroke:none;fill-opacity:1"
+      id="decoration-opaque-left"
+      transform="translate(0,5)"
+      width="5"
+      height="100" />
+    <rect
+      style="fill:#000000;stroke:none;fill-opacity:1"
+      id="decoration-opaque-center"
+      transform="translate(5,5)"
+      width="100"
+      height="100" />
+    <rect
+      style="fill:#000000;stroke:none;fill-opacity:1"
+      id="decoration-opaque-right"
+      transform="translate(105,5)"
+      width="5"
+      height="100" />
+    <path
+      style="fill:#000000;stroke:none;fill-opacity:1"
+      id="decoration-opaque-bottomleft"
+      transform="translate(0,105)"
+      d="m 0,0 a 5,5 0 0 0 5,5 v -5 z" />
+    <rect
+      style="fill:#000000;stroke:none;fill-opacity:1"
+      id="decoration-opaque-bottom"
+      transform="translate(5,105)"
+      width="100"
+      height="5" />
+    <path
+      style="fill:#000000;stroke:none;fill-opacity:1"
+      id="decoration-opaque-bottomright"
+      transform="translate(105,105)"
+      d="m 0,5 a 5,5 0 0 0 5,-5 h -5 z" />
+  </g>
+</svg>

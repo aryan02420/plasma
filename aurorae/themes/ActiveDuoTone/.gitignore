@@ -1,0 +1,12 @@
+node_modules
+
+# generated files
+alldesktops.svg
+close.svg
+help.svg
+keepabove.svg
+keepbelow.svg
+maximize.svg
+minimize.svg
+restore.svg
+shade.svg 
