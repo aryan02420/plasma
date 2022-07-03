@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Hunyango Accent
+Comment=Hunyango wallpaper with accent color
+Icon=preferences-desktop-wallpaper
+
+Type=Service
+X-KDE-ServiceTypes=Plasma/Wallpaper
+
+X-KDE-PluginInfo-Author=aryan02420
+X-KDE-PluginInfo-Email=aryan02420@gmail.com
+X-KDE-PluginInfo-Name=com.github.aryan02420.hunyangoAccent
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://github.com/aryan02420/plasma
+X-KDE-PluginInfo-License=LGPL-2.1
+X-KDE-PluginInfo-EnabledByDefault=true

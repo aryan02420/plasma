@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "aryan02420",
+                "Email": "aryan02420@gmail.com"
+            }
+        ],
+        "Name": "Hunyango Accent",
+        "Description": "Hunyango wallpaper with accent color",
+        "EnabledByDefault": true,
+        "Icon": "preferences-desktop-wallpaper",
+        "Id": "com.github.aryan02420.hunyangoAccent",
+        "License": "LGPL-2.1",
+        "ServiceTypes": [
+            "Plasma/Wallpaper"
+        ],
+        "Version": "1.0",
+        "Website": "https://github.com/aryan02420/plasma"
+    }
+}
