@@ -31,9 +31,9 @@ All my Plasma5 customizations
         </a>
     </td>
     <td>
-        <a href="#">
-          <img src="https://plchldr.co/i/200x120?&bg=838383&fc=232323" width="200">
-          <p align="center">[WIP] Hunyango 3D</p>
+        <a href="konsole">
+          <img src="konsole/Lorikeet.preview.jpg" width="200">
+          <p align="center">Lorikeet Konsole</p>
         </a>
     </td>
     <td>
@@ -45,6 +45,10 @@ All my Plasma5 customizations
   </tr>
   <tr>
     <td>
+        <a href="#">
+          <img src="https://plchldr.co/i/200x120?&bg=838383&fc=232323" width="200">
+          <p align="center">[WIP] Hunyango 3D</p>
+        </a>
     </td>
     <td>
         <a href="#">
