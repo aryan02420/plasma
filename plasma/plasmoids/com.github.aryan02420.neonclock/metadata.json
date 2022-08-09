@@ -1,0 +1,25 @@
+{
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "aryan02420@gmail.com",
+        "Name": "aryan02420"
+      }
+    ],
+    "Category": "Date and Time",
+    "Description": "Glowing Neon Analog Clock",
+    "EnabledByDefault": true,
+    "FormFactors": ["tablet", "handset", "desktop"],
+    "Icon": "preferences-system-time",
+    "Id": "com.github.aryan02420.neonclock",
+    "License": "GPL-2.0+",
+    "Name": "Neon Clock",
+    "ServiceTypes": ["Plasma/Applet"],
+    "Version": "3.0",
+    "Website": "https://userbase.kde.org/Plasma/Clocks"
+  },
+  "X-Plasma-API": "declarativeappletscript",
+  "X-Plasma-MainScript": "ui/analogclock.qml",
+  "X-Plasma-Provides": ["org.kde.plasma.time", "org.kde.plasma.date"],
+  "X-Plasma-StandAloneApp": true
+}

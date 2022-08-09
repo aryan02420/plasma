@@ -63,6 +63,12 @@ All my Plasma5 customizations
 <table border="0">
   <tr>
     <td>
+      <a href="plasma/plasmoids/com.github.aryan02420.neonclock">
+        <img src="plasma/plasmoids/com.github.aryan02420.neonclock/neonclock.png" width="200">
+        <p align="center">Neon Clock</p>
+      </a>
+    </td>
+    <td>
       <a href="#">
         <img src="https://plchldr.co/i/200x120?&bg=838383&fc=232323" width="200">
         <p align="center">[WIP] Clock of Fifths</p>
@@ -74,7 +80,6 @@ All my Plasma5 customizations
         <p align="center">[WIP] MaterialYou Widgets</p>
       </a>
     </td>
-    <td></td>
   </tr>
 </table>
 

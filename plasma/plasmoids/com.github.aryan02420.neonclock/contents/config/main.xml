@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/kcfg.xsd" >
+  <kcfgfile name=""/>
+
+  <group name="Hands">
+    <entry name="showSecondHand" type="Bool">
+      <default>false</default>
+    </entry>
+    <entry name="showMinuteHand" type="Bool">
+      <default>true</default>
+    </entry>
+    <entry name="showHourHand" type="Bool">
+      <default>true</default>
+    </entry>
+  </group>
+
+  <group name="Numbers">
+    <entry name="show12" type="Bool">
+      <default>true</default>
+    </entry>
+    <entry name="show3" type="Bool">
+      <default>false</default>
+    </entry>
+    <entry name="show6" type="Bool">
+      <default>false</default>
+    </entry>
+    <entry name="show9" type="Bool">
+      <default>false</default>
+    </entry>
+  </group>
+
+  <group name="Ticks">
+    <entry name="showBigTicks" type="Bool">
+      <default>true</default>
+    </entry>
+    <entry name="showSmallTicks" type="Bool">
+      <default>false</default>
+    </entry>
+  </group>
+
+</kcfg>
