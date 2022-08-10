@@ -35,6 +35,8 @@ Item {
     property bool showBigTicks: Plasmoid.configuration.showBigTicks
     property bool showSmallTicks: Plasmoid.configuration.showSmallTicks
 
+    property bool showFace: Plasmoid.configuration.showFace
+
     Plasmoid.backgroundHints: "NoBackground";
     Plasmoid.preferredRepresentation: Plasmoid.compactRepresentation
 
@@ -106,6 +108,7 @@ Item {
                 anchors.centerIn: parent
                 width: Math.min(parent.width, parent.height)
                 height: Math.min(parent.width, parent.height)
+                visible: showFace
                 svg: clockSvg
                 elementId: "ClockFace"
             }

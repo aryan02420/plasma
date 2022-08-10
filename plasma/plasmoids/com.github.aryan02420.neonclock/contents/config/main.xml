@@ -41,4 +41,8 @@
     </entry>
   </group>
 
+  <entry name="showFace" type="Bool">
+    <default>true</default>
+  </entry>
+
 </kcfg>

@@ -22,6 +22,9 @@ Kirigami.FormLayout {
     property alias cfg_showBigTicks: showBigTicksCheckBox.checked
     property alias cfg_showSmallTicks: showSmallTicksCheckBox.checked
 
+    property alias cfg_showFace: showFaceCheckBox.checked
+
+
     anchors {
         left: parent.left
         right: parent.right
@@ -41,6 +44,10 @@ Kirigami.FormLayout {
     CheckBox {
         id: showHourHandCheckBox
         text: i18n("Hours")
+    }
+
+    Item {
+        Kirigami.FormData.isSection: true
     }
 
     CheckBox {
@@ -63,6 +70,10 @@ Kirigami.FormLayout {
         id: show9CheckBox
         text: i18n("9")
     }
+    
+    Item {
+        Kirigami.FormData.isSection: true
+    }
 
     CheckBox {
         id: showBigTicksCheckBox
@@ -73,5 +84,15 @@ Kirigami.FormLayout {
     CheckBox {
         id: showSmallTicksCheckBox
         text: i18n("Small")
+    }
+    
+    Item {
+        Kirigami.FormData.isSection: true
+    }
+
+    CheckBox {
+        id: showFaceCheckBox
+        text: i18n("Face")
+        Kirigami.FormData.label: i18n("")
     }
 }
