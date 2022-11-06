@@ -54,7 +54,13 @@ All my Plasma5 customizations
         <img src="konsole/Lorikeet.preview.jpg" width="200">
         <p align="center">Lorikeet Konsole</p>
       </a>
-    <td></td>
+    </td>
+    <td>
+      <a href="konsole/Girgit.colorscheme">
+        <img src="konsole/Girgit.preview.jpg" width="200">
+        <p align="center">Girgit Konsole</p>
+      </a>
+    </td>
   </tr>
 </table>
 
