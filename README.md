@@ -62,6 +62,18 @@ All my Plasma5 customizations
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="konsole/FlexokiDark.colorscheme">
+        <img src="konsole/FlexokiDark.preview.png" width="200">
+        <p align="center">FlexokiDark Konsole</p>
+      </a>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
 </table>
 
 ### Plasmiods
